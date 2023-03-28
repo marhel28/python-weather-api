@@ -2,8 +2,9 @@ import json
 
 import requests
 
-key_weather = "2c7c43f4eeeb0798051fd936d473c33f"
-
+key_weather = ""  # your API Weather
+# API website : https://openweathermap.org/current
+# API response need coord lat and lng from website GEO
 
 class Response_Weather:
     def __init__(self, data):

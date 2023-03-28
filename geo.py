@@ -1,8 +1,9 @@
 import json
 import requests
 
-key = "a2ac39580c2a4088b301d07ad7c093dd"
-
+key = ""  # Your API GEO (lat - lng)
+# API website : https://opencagedata.com/
+# Website Geo can find lat and lng by name city,country
 
 class Response:
     def __init__(self, data):
@@ -43,7 +44,7 @@ class Response:
 
     @staticmethod
     def content_main():
-        with open("geolocation.json",'r') as file:
+        with open("geolocation.json", 'r') as file:
             file_ = json.load(file)
             return file_
 
@@ -55,5 +56,3 @@ class Response:
 
     def time_zone(self):
         return self.content_main()["time_zone"]
-
-

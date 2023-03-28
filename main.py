@@ -4,7 +4,6 @@ from geo import Response
 from weather import Response_Weather
 from beautiful import InterActiveButton
 import webbrowser as wb
-from PIL import Image, ImageTk
 
 FIX_COLOUR = "#77e8fb"
 BG_WIND = "#083657"
