@@ -1,0 +1,1177 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2497,
+        "reset": 1679961600
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 30' 26.40924'' N",
+                    "lng": "0\u00b0 7' 39.54000'' E"
+                },
+                "MGRS": "30UXC9932610157",
+                "Maidenhead": "IO91wm41qs",
+                "Mercator": {
+                    "x": -14209.933,
+                    "y": 6678066.265
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=65606#map=17/51.50734/-0.12765",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.50734/-0.12765&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.50734&mlon=-0.12765#map=17/51.50734/-0.12765"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpvj0e5cx368m56zyup",
+                "qibla": 118.99,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889240,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943420,
+                        "nautical": 1679945880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "bergaul.berharap.belanjaan"
+                },
+                "wikidata": "Q84"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.6918741,
+                    "lng": 0.3340155
+                },
+                "southwest": {
+                    "lat": 51.2867601,
+                    "lng": -0.5103751
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG"
+                ],
+                "_category": "place",
+                "_type": "city",
+                "city": "London",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London"
+            },
+            "confidence": 1,
+            "formatted": "London, England, Britania Raya",
+            "geometry": {
+                "lat": 51.5073359,
+                "lng": -0.12765
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 30' 56.22372'' N",
+                    "lng": "0\u00b0 5' 31.19388'' E"
+                },
+                "MGRS": "30UYC0176311175",
+                "Maidenhead": "IO91wm83xr",
+                "Mercator": {
+                    "x": -10241.204,
+                    "y": 6679543.752
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=51800#map=17/51.51562/-0.09200",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.51562/-0.09200&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.51562&mlon=-0.09200#map=17/51.51562/-0.09200"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpvjfjh0r1je09ufng0",
+                "qibla": 119.03,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889180,
+                        "civil": 1679894100,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943420,
+                        "nautical": 1679945820
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "pustaka.lehermu.tenggat"
+                },
+                "wikidata": "Q23311"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5233122,
+                    "lng": -0.072747
+                },
+                "southwest": {
+                    "lat": 51.5068696,
+                    "lng": -0.1138295
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-LND"
+                ],
+                "_category": "place",
+                "_type": "neighbourhood",
+                "city": "London",
+                "city_district": "City of London",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "county": "City of London",
+                "county_code": "LND",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London"
+            },
+            "confidence": 7,
+            "formatted": "London, City of London, England, Britania Raya",
+            "geometry": {
+                "lat": 51.5156177,
+                "lng": -0.0919983
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 30' 51.10452'' N",
+                    "lng": "0\u00b0 6' 48.51648'' E"
+                },
+                "MGRS": "30UYC0028010958",
+                "Maidenhead": "IO91wm63jj",
+                "Mercator": {
+                    "x": -12632.177,
+                    "y": 6679290.054
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=2335557#map=17/51.51420/-0.11348",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.51420/-0.11348&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.51420&mlon=-0.11348#map=17/51.51420/-0.11348"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpvj3v7gy1e68mbeb9y",
+                "qibla": 119.01,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Strand",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889180,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943420,
+                        "nautical": 1679945820
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "bagasi.diabadikan.direktur"
+                },
+                "wikidata": "Q609835"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5149928,
+                    "lng": -0.1117005
+                },
+                "southwest": {
+                    "lat": 51.5134019,
+                    "lng": -0.1144269
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG"
+                ],
+                "_category": "travel/tourism",
+                "_type": "attraction",
+                "attraction": "Royal Courts of Justice",
+                "city": "London",
+                "city_district": "Islington",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "neighbourhood": "St Clement Danes",
+                "postcode": "WC2A 2LL",
+                "road": "Strand",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Holborn"
+            },
+            "confidence": 9,
+            "formatted": "Royal Courts of Justice, Strand, London, WC2A 2LL, Britania Raya",
+            "geometry": {
+                "lat": 51.5141957,
+                "lng": -0.1134768
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 30' 12.53268'' N",
+                    "lng": "0\u00b0 9' 6.29568'' E"
+                },
+                "MGRS": "30UXC9767109663",
+                "Maidenhead": "IO91wm10su",
+                "Mercator": {
+                    "x": -16892.601,
+                    "y": 6677378.69
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=120316250#map=17/51.50348/-0.15175",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.50348/-0.15175&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.50348&mlon=-0.15175#map=17/51.50348/-0.15175"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpuuxcmxbzch4ku339c",
+                "qibla": 118.96,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Piccadilly",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889240,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943480,
+                        "nautical": 1679945880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "apabila.jerami.bersua"
+                },
+                "wikidata": "Q622206"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5036759,
+                    "lng": -0.1514649
+                },
+                "southwest": {
+                    "lat": 51.5033288,
+                    "lng": -0.1520324
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG"
+                ],
+                "_category": "outdoors/recreation",
+                "_type": "museum",
+                "city": "London",
+                "city_district": "City of Westminster",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "county": "Westminster",
+                "county_code": "WSM",
+                "house_number": "149",
+                "museum": "Apsley House",
+                "postcode": "W1J 7NT",
+                "road": "Piccadilly",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Belgravia"
+            },
+            "confidence": 9,
+            "formatted": "Apsley House, 149 Piccadilly, London, W1J 7NT, Britania Raya",
+            "geometry": {
+                "lat": 51.5034813,
+                "lng": -0.1517488
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 31' 6.54636'' N",
+                    "lng": "0\u00b0 8' 49.14492'' E"
+                },
+                "MGRS": "30UXC9793711344",
+                "Maidenhead": "IO91wm24ik",
+                "Mercator": {
+                    "x": -16362.257,
+                    "y": 6680055.355
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=9324344#map=17/51.51849/-0.14698",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.51849/-0.14698&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.51849&mlon=-0.14698#map=17/51.51849/-0.14698"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpvhdsuzj8mcterc2sn",
+                "qibla": 118.98,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Harley Street",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889240,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943480,
+                        "nautical": 1679945880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "kepingin.rendang.kidung"
+                },
+                "wikidata": "Q3414026"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5186806,
+                    "lng": -0.1468133
+                },
+                "southwest": {
+                    "lat": 51.5182899,
+                    "lng": -0.1475413
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-WSM"
+                ],
+                "_category": "education",
+                "_type": "school",
+                "city": "London",
+                "city_district": "City of Westminster",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "county": "Westminster",
+                "county_code": "WSM",
+                "house_number": "43-49",
+                "postcode": "W1G 9QY",
+                "quarter": "East Marylebone",
+                "road": "Harley Street",
+                "school": "Queen's College, London",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Marylebone"
+            },
+            "confidence": 9,
+            "formatted": "Queen's College, London, 43-49 Harley Street, East Marylebone, London, W1G 9QY, Britania Raya",
+            "geometry": {
+                "lat": 51.5184851,
+                "lng": -0.1469847
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 30' 46.00584'' N",
+                    "lng": "0\u00b0 7' 8.58036'' E"
+                },
+                "MGRS": "30UXC9989910785",
+                "Maidenhead": "IO91wm53rb",
+                "Mercator": {
+                    "x": -13252.593,
+                    "y": 6679037.364
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=484870412#map=17/51.51278/-0.11905",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.51278/-0.11905&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.51278&mlon=-0.11905#map=17/51.51278/-0.11905"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpvj3979yjf6ub5n5t1",
+                "qibla": 119,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Aldwych",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889240,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943420,
+                        "nautical": 1679945880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "estetika.setempat.kambuh"
+                },
+                "wikidata": "Q1412478"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.5130703,
+                    "lng": -0.1185966
+                },
+                "southwest": {
+                    "lat": 51.5123955,
+                    "lng": -0.1195639
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG"
+                ],
+                "_category": "travel/tourism",
+                "_type": "hotel",
+                "city": "London",
+                "city_district": "City of Westminster",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "county": "Westminster",
+                "county_code": "WSM",
+                "hotel": "The Waldorf Hilton, London",
+                "neighbourhood": "St Clement Danes",
+                "postcode": "WC2B 4DD",
+                "road": "Aldwych",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Covent Garden"
+            },
+            "confidence": 9,
+            "formatted": "The Waldorf Hilton, London, Aldwych, London, WC2B 4DD, Britania Raya",
+            "geometry": {
+                "lat": 51.5127794,
+                "lng": -0.1190501
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 27' 3.49020'' N",
+                    "lng": "0\u00b0 5' 18.27888'' E"
+                },
+                "MGRS": "30UYC0229803997",
+                "Maidenhead": "IO91wk98jf",
+                "Mercator": {
+                    "x": -9841.851,
+                    "y": 6668017.58
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=5006044#map=17/51.45097/-0.08841",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.45097/-0.08841&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.45097&mlon=-0.08841#map=17/51.45097/-0.08841"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcputyreeguh6cp7nwj0",
+                "qibla": 118.98,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889240,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943420,
+                        "nautical": 1679945820
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "antusias.cengkerama.persentase"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.4520772,
+                    "lng": -0.0866791
+                },
+                "southwest": {
+                    "lat": 51.4499294,
+                    "lng": -0.090257
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-SWK"
+                ],
+                "_category": "outdoors/recreation",
+                "_type": "recreation_ground",
+                "city": "London",
+                "city_district": "London Borough of Southwark",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "recreation_ground": "Griffin Sports Ground (King's College, London)",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Dulwich Village"
+            },
+            "confidence": 9,
+            "formatted": "Griffin Sports Ground (King's College, London), Dulwich Village, London, England, Britania Raya",
+            "geometry": {
+                "lat": 51.4509695,
+                "lng": -0.0884108
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "54\u00b0 4' 42.75948'' N",
+                    "lng": "1\u00b0 51' 3.30444'' W"
+                },
+                "MGRS": "30UWE7517892871",
+                "Maidenhead": "IO94bb78vu",
+                "Mercator": {
+                    "x": -206043.238,
+                    "y": 7150417.441
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=36743047#map=17/54.07854/-1.85092",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/54.07854/-1.85092&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=54.07854&mlon=-1.85092#map=17/54.07854/-1.85092"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcwetusnq7r9fsuen43z",
+                "qibla": 119.4,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896440,
+                        "astronomical": 1679889060,
+                        "civil": 1679894340,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941920,
+                        "astronomical": 1679949420,
+                        "civil": 1679944080,
+                        "nautical": 1679946660
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "mudanya.ditukik.pengacuan"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 54.0798505,
+                    "lng": -1.8498303
+                },
+                "southwest": {
+                    "lat": 54.0771721,
+                    "lng": -1.8535639
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-NYK"
+                ],
+                "_category": "natural/water",
+                "_type": "wetland",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "county": "North Yorkshire",
+                "county_code": "NYK",
+                "state": "England",
+                "state_code": "ENG",
+                "suburb": "Bewerley",
+                "town": "Harrogate",
+                "wetland": "London"
+            },
+            "confidence": 9,
+            "formatted": "London, Bewerley, Harrogate, North Yorkshire, England, Britania Raya",
+            "geometry": {
+                "lat": 54.0785443,
+                "lng": -1.8509179
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 26' 44.91852'' N",
+                    "lng": "0\u00b0 12' 41.22216'' E"
+                },
+                "MGRS": "30UXC9377303091",
+                "Maidenhead": "IO91vk46px",
+                "Mercator": {
+                    "x": -23538.568,
+                    "y": 6667098.521
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=544763905#map=17/51.44581/-0.21145",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.44581/-0.21145&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.44581&mlon=-0.21145#map=17/51.44581/-0.21145"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpuejqj8f5nc6bpfjgy",
+                "qibla": 118.84,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896140,
+                        "astronomical": 1679889240,
+                        "civil": 1679894160,
+                        "nautical": 1679891760
+                    },
+                    "set": {
+                        "apparent": 1679941440,
+                        "astronomical": 1679948400,
+                        "civil": 1679943480,
+                        "nautical": 1679945880
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "selipan.mengambil.pemahaman"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.4459766,
+                    "lng": -0.2108016
+                },
+                "southwest": {
+                    "lat": 51.445635,
+                    "lng": -0.212195
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-WND"
+                ],
+                "_category": "outdoors/recreation",
+                "_type": "park",
+                "city": "London",
+                "city_district": "London Borough of Wandsworth",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "park": "Historic Southfields Pond",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London",
+                "suburb": "Southfields"
+            },
+            "confidence": 9,
+            "formatted": "Historic Southfields Pond, Southfields, London, England, Britania Raya",
+            "geometry": {
+                "lat": 51.4458107,
+                "lng": -0.2114506
+            }
+        },
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "51\u00b0 28' 54.02388'' N",
+                    "lng": "0\u00b0 26' 28.00860'' E"
+                },
+                "MGRS": "30UXC7767706496",
+                "Maidenhead": "IO91sl75bo",
+                "Mercator": {
+                    "x": -49104.526,
+                    "y": 6673489.72
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?relation=3609697#map=17/51.48167/-0.44111",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/51.48167/-0.44111&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=51.48167&mlon=-0.44111#map=17/51.48167/-0.44111"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "EUROPE": "150",
+                        "GB": "826",
+                        "NORTHERN_EUROPE": "154",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "MEDC"
+                    ]
+                },
+                "callingcode": 44,
+                "currency": {
+                    "alternate_symbols": [],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x00A3;",
+                    "iso_code": "GBP",
+                    "iso_numeric": "826",
+                    "name": "British Pound",
+                    "smallest_denomination": 1,
+                    "subunit": "Penny",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u00a3",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddec\ud83c\udde7",
+                "geohash": "gcpsvgyy3r3yyzdkz0g4",
+                "qibla": 118.62,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "road": "Bath Road",
+                    "speed_in": "mph"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1679896200,
+                        "astronomical": 1679889300,
+                        "civil": 1679894220,
+                        "nautical": 1679891820
+                    },
+                    "set": {
+                        "apparent": 1679941500,
+                        "astronomical": 1679948460,
+                        "civil": 1679943540,
+                        "nautical": 1679945940
+                    }
+                },
+                "timezone": {
+                    "name": "Europe/London",
+                    "now_in_dst": 1,
+                    "offset_sec": 3600,
+                    "offset_string": "+0100",
+                    "short_name": "BST"
+                },
+                "what3words": {
+                    "words": "anulir.kinerja.retribusi"
+                },
+                "wikidata": "Q7281348"
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 51.4821637,
+                    "lng": -0.4404044
+                },
+                "southwest": {
+                    "lat": 51.4811508,
+                    "lng": -0.4426617
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "GB",
+                "ISO_3166-1_alpha-3": "GBR",
+                "ISO_3166-2": [
+                    "GB-ENG",
+                    "GB-HIL"
+                ],
+                "_category": "travel/tourism",
+                "_type": "hotel",
+                "city": "London",
+                "city_district": "Hillingdon",
+                "continent": "Europe",
+                "country": "Britania Raya",
+                "country_code": "gb",
+                "hotel": "Radisson Blu Edwardian Heathrow Hotel & Conference Centre, London",
+                "house_number": "140",
+                "postcode": "UB3 5AW",
+                "road": "Bath Road",
+                "state": "England",
+                "state_code": "ENG",
+                "state_district": "Greater London"
+            },
+            "confidence": 9,
+            "formatted": "Radisson Blu Edwardian Heathrow Hotel & Conference Centre, London, 140 Bath Road, London, UB3 5AW, Britania Raya",
+            "geometry": {
+                "lat": 51.4816733,
+                "lng": -0.4411135
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "mastodon": "https://en.osm.town/@opencage",
+        "twitter": "https://twitter.com/OpenCage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Mon, 27 Mar 2023 02:59:53 GMT",
+        "created_unix": 1679885993
+    },
+    "total_results": 10
+}

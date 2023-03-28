@@ -1,0 +1,27 @@
+{
+    "lat": 51.5073359,
+    "lng": -0.12765,
+    "url": "https://www.openstreetmap.org/?mlat=51.50734&mlon=-0.12765#map=17/51.50734/-0.12765",
+    "formatted": "London, England, Britania Raya",
+    "coord": {
+        "lat": "51\u00b0 30' 26.40924'' N",
+        "lng": "0\u00b0 7' 39.54000'' E"
+    },
+    "test": {
+        "ISO_3166-1_alpha-2": "GB",
+        "ISO_3166-1_alpha-3": "GBR",
+        "ISO_3166-2": [
+            "GB-ENG"
+        ],
+        "_category": "place",
+        "_type": "city",
+        "city": "London",
+        "continent": "Europe",
+        "country": "Britania Raya",
+        "country_code": "gb",
+        "state": "England",
+        "state_code": "ENG",
+        "state_district": "Greater London"
+    },
+    "time_zone": "BST"
+}
