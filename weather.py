@@ -3,6 +3,8 @@ import json
 import requests
 
 key_weather = ""  # your API keys Weather
+
+
 # API website : https://openweathermap.org/current
 # API response need coord lat and lng from website GEO
 
@@ -37,11 +39,10 @@ class Response_Weather:
         return self.response_main["main"]["feels_like"]
 
     def presure(self):
-        return  self.response_main['main']['pressure']
+        return self.response_main['main']['pressure']
 
     def wind(self):
         return self.response_main['wind']['speed']
 
     def clouds(self):
         return self.response_main['clouds']['all']
-
