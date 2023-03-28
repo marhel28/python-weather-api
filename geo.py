@@ -1,7 +1,9 @@
 import json
 import requests
 
-key = ""  # Your API GEO (lat - lng)
+key = ""  # Your API keys GEO (lat - lng)
+
+
 # API website : https://opencagedata.com/
 # Website Geo can find lat and lng by name city,country
 

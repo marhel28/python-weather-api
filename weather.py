@@ -2,7 +2,7 @@ import json
 
 import requests
 
-key_weather = ""  # your API Weather
+key_weather = ""  # your API keys Weather
 # API website : https://openweathermap.org/current
 # API response need coord lat and lng from website GEO
 
